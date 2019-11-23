@@ -10,7 +10,6 @@ scecog 的个人博客
 
 ### 最新
 
-* [第一篇博客哦](https://www.jaysunshine.club/articles/2019/11/22/1574415147529.html)
 * [世界，你好！](https://www.jaysunshine.club/hello-solo)
 
 
