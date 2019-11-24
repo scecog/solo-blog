@@ -10,6 +10,7 @@ scecog 的个人博客
 
 ### 最新
 
+* [区块链学习](https://www.jaysunshine.club/articles/2019/11/23/1574492372477.html)
 * [第一篇博客](https://www.jaysunshine.club/articles/2019/11/23/1574477681079.html)
 
 
