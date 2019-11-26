@@ -10,6 +10,8 @@ scecog 的个人博客
 
 ### 最新
 
+* [区块链网络结构](https://www.jaysunshine.club/articles/2019/11/25/1574683132314.html)
+* [IDEA的使用技巧](https://www.jaysunshine.club/articles/2019/11/25/1574671870503.html)
 * [xshell上传文件](https://www.jaysunshine.club/articles/2019/11/25/1574661976092.html)
 * [超级账本Fabric](https://www.jaysunshine.club/articles/2019/11/25/1574652870734.html)
 * [区块链学习（一） 基本概念](https://www.jaysunshine.club/articles/2019/11/23/1574492372477.html)
