@@ -10,6 +10,7 @@ scecog 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.jaysunshine.club/my-github-repos)
 * [区块链网络结构](https://www.jaysunshine.club/articles/2019/11/25/1574683132314.html)
 * [IDEA的使用技巧](https://www.jaysunshine.club/articles/2019/11/25/1574671870503.html)
 * [xshell上传文件](https://www.jaysunshine.club/articles/2019/11/25/1574661976092.html)
